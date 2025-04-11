@@ -66,4 +66,4 @@ Testnet scheduled for Q2 2025.
 
 ## Join the Shift  
 - Website: [welta.tech](https://welta.tech)  
-- Twitter: [@welta_tech](https://twitter.com/weltatech)  
+- Twitter: [@weltatech](https://twitter.com/weltatech)  
