@@ -1,7 +1,7 @@
 # Welta  
 AI-native protocol powering next-gen RWA markets
 
----
+--- 
 
 ## Overview  
 Welta is an AI-native infrastructure protocol designed for the autonomous era of finance.  
