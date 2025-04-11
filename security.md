@@ -80,7 +80,7 @@ Mitigation:
 ---
 
 ## Responsible Disclosure  
-To report a vulnerability, email: security@welta.ai  
+To report a vulnerability, email: security@welta.tech
 Bug bounty program to be announced closer to testnet release.
 
 ---
